@@ -1,4 +1,4 @@
-# [The Algorithms](https://github.com/TheAlgorithms) old website
+# [The Algorithms](https://github.com/TheAlgorithms) old website 🔥⭐
 
 ### This website is deprecated. 
 > The new website is <https://the-algorithms.com>.
